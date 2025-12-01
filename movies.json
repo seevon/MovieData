@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Гарри Поттер",
+    "genre": "Фэнтези",
+    "type": "Фильм",
+    "year": 2001,
+    "words_count":1850,
+    "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Nmw2v3qwMWsFgpkE85GkruqiiPNsyyfAeA&s",
+    "wordsDbFile": "HarryPotter.db"
+  },
+  {
+    "id": 2,
+    "title": "Друзья",
+    "genre": "Комедия",
+    "type": "Сериал",
+    "year": 1994,
+    "words_count": 1420,
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "wordsDbFile": "Friends.db"
+  },
+  {
+    "id": 3,
+    "title": "LOST",
+    "genre": "Драма",
+    "type": "Сериал",
+    "year": 2004,
+    "words_count": 8000,
+    "poster_url": "https://mylost.ru/images/posters/lost-season-1-poster-thumb.webp",
+    "wordsDbFile": "LOST.db"
+  },
+  {
+    "id": 4,
+    "title": "Интерстеллар",
+    "genre": "Фантастика",
+    "type": "Фильм",
+    "year": 2014,
+    "words_count": 1700,
+    "poster_url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/430042eb-ee69-4818-aed0-a312400a26bf/600x900",
+    "wordsDbFile": "Interstellar.db"
+  },
+  {
+    "id": 5,
+    "title": "Атака титанов",
+    "genre": "Боевик",
+    "type": "Аниме",
+    "year": 2013,
+    "words_count": 1910,
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZjliODY5MzQtMmViZC00MTZmLWFhMWMtMjMwM2I3OGY1MTRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "wordsDbFile": "AttackOnTitan.db"
+  },
+  {
+    "id": 6,
+    "title": "Матрица",
+    "genre": "Фантастика",
+    "type": "Фильм",
+    "year": 1999,
+    "words_count": 1820,
+    "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjIW_4iSH-IBf17zN589Kf51duvtyOX5T5-g&s",
+    "wordsDbFile": "Matrix.db"
+  },
+  {
+    "id": 7,
+    "title": "Во все тяжкие",
+    "genre": "Драма",
+    "type": "Сериал",
+    "year": 2008,
+    "words_count": 1950,
+    "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7AUQ1ap545wJq1Op_9GPLFAV15boesLoyZA&s",
+    "wordsDbFile": "BreakingBad.db"
+  },
+  {
+    "id": 8,
+    "title": "Унесённые призраками",
+    "genre": "Фэнтези",
+    "type": "Аниме",
+    "year": 2001,
+    "words_count": 1880,
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ru/thumb/6/61/Spirited_away.jpg/250px-Spirited_away.jpg",
+    "wordsDbFile": "SpiritedAway.db"
+  },
+  {
+    "id": 9,
+    "title": "Ведьмак",
+    "genre": "Фэнтези",
+    "type": "Сериал",
+    "year": 2019,
+    "words_count": 1760,
+    "poster_url": "https://avatars.mds.yandex.net/get-kinopoisk-image/10703859/6763bbe4-6475-4177-864f-04feac0fe880/600x900",
+    "wordsDbFile": "Witcher.db"
+  },
+  {
+    "id": 10,
+    "title": "Начало",
+    "genre": "Фантастика",
+    "type": "Фильм",
+    "year": 2010,
+    "words_count": 1870,
+    "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSst4d8lj72xNuuGSbj7e_UVZi2lQ86RC2FqQ&s",
+    "wordsDbFile": "Inception.db"
+  },
+  {
+    "id": 11,
+    "title": "Истребитель демонов",
+    "genre": "Боевик",
+    "type": "Аниме",
+    "year": 2019,
+    "words_count": 1840,
+    "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ39fVG5gIeKzNPc8rMEfg4WDoAsF-QQtEkpg&s",
+    "wordsDbFile": "DemonSlayer.db"
+  },
+  {
+    "id": 12,
+    "title": "Очень странные дела",
+    "genre": "Ужасы",
+    "type": "Сериал",
+    "year": 2016,
+    "words_count": 1830,
+    "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGdjFVig64vC1JQ7qoCvJByJHHsVtFX3QirQ&s",
+    "wordsDbFile": "StrangerThings.db"
+  }
+]
