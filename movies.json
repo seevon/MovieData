@@ -76,7 +76,7 @@
     "type": "Аниме",
     "year": 2001,
     "words_count": 1880,
-    "poster_url": "https://upload.wikimedia.org/wikipedia/ru/thumb/6/61/Spirited_away.jpg/250px-Spirited_away.jpg",
+    "poster_url": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/ae3b699c-3db7-4196-a869-39b610bfe706/600x900",
     "wordsDbFile": "SpiritedAway.db"
   },
   {
@@ -118,5 +118,96 @@
     "words_count": 1830,
     "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGdjFVig64vC1JQ7qoCvJByJHHsVtFX3QirQ&s",
     "wordsDbFile": "StrangerThings.db"
+  }
+  [
+  {
+    "id": 13,
+    "title": "1+1",
+    "genre": "Драма",
+    "type": "Фильм",
+    "year": 2011,
+    "words_count": 1600,
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ru/b/b9/Intouchables.jpg",
+    "wordsDbFile": "Intouchables.db"
+  },
+  {
+    "id": 14,
+    "title": "Побег из Шоушенка",
+    "genre": "Драма",
+    "type": "Фильм",
+    "year": 1994,
+    "words_count": 1750,
+    "poster_url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/0b76b2a2-d1c7-4f04-a284-80ff7bb709a4/600x900",
+    "wordsDbFile": "Shawshank.db"
+  },
+  {
+    "id": 15,
+    "title": "Джентльмены",
+    "genre": "Боевик",
+    "type": "Фильм",
+    "year": 2019,
+    "words_count": 1650,
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ru/c/c1/%D0%94%D0%B6%D0%B5%D0%BD%D1%82%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D1%8B.jpg",
+    "wordsDbFile": "Gentlemen.db"
+  },
+  {
+    "id": 16,
+    "title": "Зеленая миля",
+    "genre": "Драма",
+    "type": "Фильм",
+    "year": 1999,
+    "words_count": 1800,
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ru/b/b0/Green_mile_film.jpg",
+    "wordsDbFile": "GreenMile.db"
+  },
+  {
+    "id": 17,
+    "title": "Остров проклятых",
+    "genre": "Триллер",
+    "type": "Фильм",
+    "year": 2010,
+    "words_count": 1550,
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ru/2/22/Kinopoisk.ru-Shutter-Island-1094940.jpg",
+    "wordsDbFile": "ShutterIsland.db"
+  },
+  {
+    "id": 18,
+    "title": "Властелин колец",
+    "genre": "Фэнтези",
+    "type": "Фильм",
+    "year": 2001,
+    "words_count": 2000,
+    "poster_url": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/a2d5bcae-a1a9-442f-8195-f5373a5ba77f/220x330",
+    "wordsDbFile": "LordOfTheRings.db"
+  },
+  {
+    "id": 19,
+    "title": "Форрест Гамп",
+    "genre": "Драма",
+    "type": "Фильм",
+    "year": 1994,
+    "words_count": 1700,
+    "poster_url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/3560b757-9b95-45ec-af8c-623972370f9d/220x330",
+    "wordsDbFile": "ForrestGump.db"
+  },
+  {
+    "id": 20,
+    "title": "Терминатор",
+    "genre": "Фантастика",
+    "type": "Фильм",
+    "year": 1984,
+    "words_count": 1500,
+    "poster_url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/537869cd-5fb8-4993-af4c-c5f6a30e61ba/220x330",
+    "wordsDbFile": "Terminator.db"
+  },
+  {
+    "id": 21,
+    "title": "Зеленая книга",
+    "genre": "Комедия",
+    "type": "Фильм",
+    "year": 2018,
+    "words_count": 1600,
+    "poster_url": "https://static.okko.tv/images/v4/19f07f37-5e1e-4941-a189-ec568941f378",
+    "wordsDbFile": "GreenBook.db"
   }
 ]
